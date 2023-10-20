@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://mohammedsb.github.io/sitemap.xml
